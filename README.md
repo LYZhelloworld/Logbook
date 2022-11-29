@@ -6,8 +6,6 @@ My callsign: `BD4VQK`
 QRZ: https://www.qrz.com/db/BD4VQK
 
 ## Format
-[Logbook file](logbook.md)
-
 Example of the markdown file:
 |DATE|TIME|FREQ|CALL|MODE|RST RX|RST TX|
 |-|-|-|-|-|-|-|
